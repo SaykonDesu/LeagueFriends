@@ -1,5 +1,8 @@
 {
   "name": "slaveikk",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "01aee21a"
 }
